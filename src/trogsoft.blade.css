@@ -1,0 +1,7 @@
+.ts-blade-container {
+  overflow-x: scroll;
+  overflow-y: hidden;
+  min-width: 0;
+  display: flex;
+  flex-direction: row;
+}
